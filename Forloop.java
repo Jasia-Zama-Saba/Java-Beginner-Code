@@ -1,5 +1,5 @@
 public class Forloop {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         //even number 1-19
         for(int i=1;i<20;i+=2){
             System.out.println(i);

@@ -3,7 +3,7 @@
  */
 public class OperatorPrecedenceAssociativity {
 
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int m=7;
         System.out.println("Value of m:"+ ++m);//8
         System.out.println("Value of m:" + m++);//8

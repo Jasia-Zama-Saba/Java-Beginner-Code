@@ -1,5 +1,5 @@
 public class Condition1 {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         //type 1
         int x=100;
         if (x/5==20 && x/2==50) {

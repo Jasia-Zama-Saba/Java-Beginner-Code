@@ -1,5 +1,5 @@
 public class Datatype2 {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int age=23;
         double gpa= 3.73;
         long pn=10998;
